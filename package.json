@@ -1,0 +1,19 @@
+{
+  "name": "front-end-modern-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miiixr/front-end-modern-concept.git"
+  },
+  "author": "caesar, norman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miiixr/front-end-modern-concept/issues"
+  },
+  "homepage": "https://github.com/miiixr/front-end-modern-concept#readme"
+}
